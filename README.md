@@ -28,6 +28,7 @@ The Automatic Smart Car Parking System is an IoT-based embedded systems project 
 - Automation and Control Systems
 
 ##  Future Improvements
+- RFID-based vehicle access control using the RC522 RFID module
 - Mobile App Integration
 - Cloud-Based Monitoring
 - Parking Reservation System
