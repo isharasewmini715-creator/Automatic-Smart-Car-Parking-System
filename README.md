@@ -1,5 +1,9 @@
 # Automatic Smart Car Parking System
 
+##  Prototype
+
+![Automatic Smart Car Parking System](prototype.jpg)
+
 ##  Overview
 The Automatic Smart Car Parking System is an IoT-based embedded systems project developed using an ESP32 microcontroller. The system automatically detects vehicle availability, controls the parking gate using a servo motor, and displays parking status on an OLED display.
 
